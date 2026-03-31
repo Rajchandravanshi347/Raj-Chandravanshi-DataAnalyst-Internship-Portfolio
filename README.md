@@ -1,4 +1,4 @@
-# Raj-Chandravashi-DataAnalyst-Internship-Portfolio
+# Raj-Chandravanshi-DataAnalyst-Internship-Portfolio
 Internship tasks including data cleaning, EDA, dashboard and storytelling
 
 # 📊 Data Analytics Internship Portfolio
